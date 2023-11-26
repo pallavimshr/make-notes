@@ -21,4 +21,4 @@ This Webpage is designed to help create notes for anything and everything.
 
 
 
-![Screenshot](snapshots/Screenshot(883).png)
+![Screenshot](snapshots/Screenshot(885).png)
