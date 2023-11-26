@@ -13,4 +13,12 @@ This Webpage is designed to help create notes for anything and everything.
   3. Use "npm start" to run the development server
 ## Snapshots
 ![Screenshot](snapshots/Screenshot(883).png)
+
+
+
+
+
+
+
+
 ![Screenshot](snapshots/Screenshot(883).png)
