@@ -12,5 +12,5 @@ This Webpage is designed to help create notes for anything and everything.
   2. Use "npm install" to install node_modules required.
   3. Use "npm start" to run the development server
 ## Snapshots
-![Screenshot](snapshots/Screenshot (883).png)
-![Screenshot](snapshots/Screenshot (883).png)
+![Screenshot](snapshots/Screenshot(883).png)
+![Screenshot](snapshots/Screenshot(883).png)
